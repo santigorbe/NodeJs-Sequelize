@@ -19,3 +19,4 @@ export const Task = sequelize.define("tasks", {
 },{
     timestamps: false
 })
+
